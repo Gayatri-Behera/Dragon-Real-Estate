@@ -1,0 +1,3 @@
+>python.exe -m pip install --upgrade pip
+>python.exe -m pip install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+>D:\Dragon>python -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn"
