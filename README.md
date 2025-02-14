@@ -1,0 +1,2 @@
+Boston Housing Analysis for Investment Decisions
+Conducted a comprehensive analysis of Boston’s housing market to provide data-driven insights for investors. Utilized various statistical and machine learning techniques to identify profitable investment opportunities, predict property prices, and assess the potential return on investment based on factors like location, property features, and market trends.
